@@ -1,0 +1,5 @@
+Image: /Users/pallavisingh/Library/CloudStorage/OneDrive-SharedLibraries-DalhousieUniversity/Priyadharshini Sridharan - Images from Dellaire Lab/test/flattened_position_1-1_C1.tif, Threshold: 32.0
+Image: /Users/pallavisingh/Library/CloudStorage/OneDrive-SharedLibraries-DalhousieUniversity/Priyadharshini Sridharan - Images from Dellaire Lab/test/flattened_position_1_C1.tif, Threshold: 28.0
+Image: /Users/pallavisingh/Library/CloudStorage/OneDrive-SharedLibraries-DalhousieUniversity/Priyadharshini Sridharan - Images from Dellaire Lab/test/flattened_position_3_C1.tif, Threshold: 34.0
+Image: /Users/pallavisingh/Library/CloudStorage/OneDrive-SharedLibraries-DalhousieUniversity/Priyadharshini Sridharan - Images from Dellaire Lab/test/flattened_position_2-1_C1.tif, Threshold: 22.0
+Image: /Users/pallavisingh/Library/CloudStorage/OneDrive-SharedLibraries-DalhousieUniversity/Priyadharshini Sridharan - Images from Dellaire Lab/test/flattened_position_3-1_C1.tif, Threshold: 26.0
